@@ -1,7 +1,9 @@
 Project Overview 🚀
+
 As part of my Business Analytics Portfolio, I conducted this project to explore Debswana's electricity consumption patterns and assess the alignment with Botswana's production capacity. The project includes various data analysis and modeling techniques to uncover potential risks, opportunities, and recommendations in energy management.
 
 Key Features 📋
+
 Data Analysis and Visualization:
 Analysis of historical electricity consumption and production trends.
 
@@ -29,30 +31,44 @@ How to Run the Project 🛠️
 
 bash
 Copy code
-git clone https://github.com/your-username/Debswana-Energy-Consumption-Analysis.git
+
+git clone https://github.com/lotterinng/Debswana-Energy-Consumption-Analysis.git
 cd Debswana-Energy-Consumption-Analysis
 
 3. Set Up the Virtual Environment
+   
 bash
+
 Copy code
+
 python -m venv myenv
+
 source myenv/bin/activate  # For Windows: myenv\Scripts\activate
 
 5. Install Dependencies
 bash
+
 Copy code
+
 pip install -r requirements.txt
 
 7. Launch Jupyter Notebook
+   
 bash
+
 Copy code
+
 jupyter notebook
+
 Open the .ipynb files to explore the analysis in detail.
 
 Project Highlights ✨
+
 Monte Carlo Simulations demonstrated the potential rise in Debswana’s consumption to 640 GWh by 2033 under a high-growth scenario.
 Regression Models achieved a Mean Absolute Error (MAE) of 12.3 GWh with Ridge Regression, providing reliable forecasting for strategic planning.
 Insights into Botswana’s Second Transitional Development Plan emphasize the importance of transitioning mines like Debswana to renewable energy sources.
+
+
 Disclaimer ⚠️
 The insights from this analysis are based on data collected from public annual reports. However, the projections and computations presented here have not been validated by Debswana or any other mentioned parties. This analysis aims to demonstrate various analytical skills and techniques as I venture into business analytics.
 
