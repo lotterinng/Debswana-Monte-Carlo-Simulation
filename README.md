@@ -73,7 +73,7 @@ Disclaimer ⚠️
 The insights from this analysis are based on data collected from public annual reports. However, the projections and computations presented here have not been validated by Debswana or any other mentioned parties. This analysis aims to demonstrate various analytical skills and techniques as I venture into business analytics.
 
 License 📜
-This project is licensed under the MIT License - see the LICENSE file for details.
+///
 
 Contact 📬
 Feel free to reach out if you have any questions or suggestions! Connect with me on LinkedIn or open an issue in this repository.
